@@ -16,6 +16,8 @@ toc: yes # leave empty or erase for no TOC
 ## Background
 After many years of a corporate career (17) diverging from computer science, I have now decided to learn Machine Learning and in the process return to coding (something I have always loved!).
 
+Thiss is my test.  
+
 To fully grasp the essence of ML I decided to start by [coding a ML library myself](./ML-Library-from-scratch.html), so I can fully understand the inner workings, linear algebra and calculus involved in Stochastic Gradient Descent. And on top learn Python (I used to code in C++ 20 years ago).
 
 I built a general purpose basic ML library that creates a Neural Network (only DENSE layers), saves and loads the weights into a file, does forward propagation and training (optimization of weights and biases) using SGD. I tested the ML library with the XOR problem to make sure it worked fine. You can read the blog post for it [here](./ML-Library-from-scratch.html).
